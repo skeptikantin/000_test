@@ -1,0 +1,5 @@
+SntId,ExpId,Type,Group,PrimeSent,PrimeDist,FillerSent,FillerDist,TargetSent,TargetDist,Filler
+1,mc,a,A,"After the coffee break, we expected a filler sentence.","x-x-x and thinking solve, some best or in and.",I am the filler.,x-x-x and thinking solve.,Then we made them work a little harder.,"x-x-x and thinking solve, some best or in.",y
+2,mc,b,A,"After the lunch break, we don't expect a filler sentence.","x-x-x in later stare, so change about playing form of.",,,Hence we made our students work a little harder.,"x-x-x in later stare, so change about playing dumb.",n
+3,mc,a,A,"After the coffee break, we expected a filler sentence.","x-x-x and thinking solve, some best or in and.",I am the filler.,x-x-x and thinking solve.,Then we made them work a little harder.,"x-x-x and thinking solve, some best or in.",y
+4,mc,b,A,"After the lunch break, we don't expect a filler sentence.","x-x-x in later stare, so change about playing form of.",,,Hence we made our students work a little harder.,"x-x-x in later stare, so change about playing dumb.",n

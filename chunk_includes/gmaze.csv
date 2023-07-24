@@ -1,0 +1,9 @@
+﻿Group,ExpId,Id,Type,Sentence,Label,Distractor
+A,subcat,1,subcat1,The talented photographer accepted the money with much reluctance.,det1 adj1 noun1 verb det noun post1 post2 post3,x-x-x secondly embarrassing download could comes miss then offenses.
+B,subcat,2,subcat1,The talented photographer accepted the money should be spent.,det1 adj1 noun1 verb det noun post1 post2 post3,x-x-x secondly embarrassing download could comes miss then offenses.
+C,subcat,3,subcat3,The CIA director confirmed the rumor once it had spread widely.,det1 adj1 noun1 verb det noun post1 post2 post3 post4 post5,x-x-x BRED diseases infection mind wears labour dad foot senate pounds.
+D,subcat,4,subcat3,The CIA director confirmed the rumor should have been stopped sooner.,det1 adj1 noun1 verb det noun post1 post2 post3 post4 post5,x-x-x BRED diseases infection mind wears labour dad foot senate pounds.
+B,subcat,5,subcat5,The new manager established our team to improve the customer service.,det1 adj1 noun1 verb det noun post1 post2 post3 post4 post5,x-x-x seen noticed trafficking walk died mm walker he answered married.
+A,subcat,6,subcat5,The new manager established our team had failed at customer service.,det1 adj1 noun1 verb pron noun post1 post2 post3 post4 post5,x-x-x seen noticed trafficking miss died mm walker he answered married.
+D,subcat,7,subcat7,The gossipy neighbor heard the story about our ongoing family problems.,det1 adj1 noun1 verb det noun post1 post2 post3 post4 post5,x-x-x ferried horrific flower can whose super sir respond never percent.
+C,subcat,8,subcat7,The gossipy neighbor heard the story had never actually been true.,det1 adj1 noun1 verb det noun post1 post2 post3 post4 post5,x-x-x ferried horrific flower can whose super sir respond never percent.
