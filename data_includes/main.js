@@ -120,7 +120,7 @@ newTrial("instructions" ,
         .wait()
 ) // instructions
 
-Template("training_gmaze.csv", row =>
+Template("own_amaze.csv", row =>
     newTrial("training",
 
         newVar("training_successes", 0)
